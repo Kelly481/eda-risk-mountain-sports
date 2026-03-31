@@ -70,11 +70,8 @@ insurance optimization.
 eda-risk-mountain-sports/
 
 ├── notebooks/ │ ├── 01_data_cleaning_licenses.ipynb │ ├──
-02_data_cleaning_claims.ipynb │ └── 03_eda_analysis.ipynb
-
-├── data/ │ ├── raw/ │ └── processed/
-
-├── README.md └── technical_report.pdf
+02_data_cleaning_claims.ipynb │ └── 03_eda_analysis.ipynb │ ├── data/ │
+├── raw/ │ └── processed/ │ ├── README.md └── technical_report.pdf
 
 ------------------------------------------------------------------------
 
