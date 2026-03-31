@@ -67,11 +67,21 @@ insurance optimization.
 
 ## 📁 Project Structure
 
+``` bash
 eda-risk-mountain-sports/
-
-├── notebooks/ │ ├── 01_data_cleaning_licenses.ipynb │ ├──
-02_data_cleaning_claims.ipynb │ └── 03_eda_analysis.ipynb │ ├── data/ │
-├── raw/ │ └── processed/ │ ├── README.md └── technical_report.pdf
+│
+├── notebooks/
+│   ├── 01_data_cleaning_licenses.ipynb
+│   ├── 02_data_cleaning_claims.ipynb
+│   └── 03_eda_analysis.ipynb
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── README.md
+└── technical_report.pdf
+```
 
 ------------------------------------------------------------------------
 
@@ -86,7 +96,9 @@ purposes.
 
 ## ▶️ How to Run
 
+``` bash
 git clone https://github.com/Kelly481/eda-risk-mountain-sports.git
+```
 
 Open the notebooks in Jupyter Notebook or JupyterLab and execute them in
 order:
